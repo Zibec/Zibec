@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Passionate about creating interactive experiences and exploring the world of game development. Currently learning and building projects with Unity and focusing on developing games from scratch.<br>🛠️ Continuously improving my skills in game design, C# programming, and game mechanics.<br>🌟 Always looking for new challenges and opportunities to collaborate on game development projects.
+# 💫 Sobre mim:
+Estou aprendendo Python, Pandas, Matplotlib, Power BI e outras ferramentas essenciais para trabalhar com dados. Estou sempre em busca de novos desafios e projetos que me ajudem a melhorar minhas habilidades e expandir meu conhecimento.
 
 
 ## 🌐 Socials:
