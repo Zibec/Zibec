@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou o Felipe Matias
+# Olá! Eu sou o Felipe Matias
 
-🎓 Estudante de **Ciência da Computação na Cesar School**  
-💻 Desenvolvedor com foco em **Back-end e Segurança de Aplicações (AppSec)**
+Estudante de **Ciência da Computação na Cesar School**  
+Desenvolvedor com foco em **Back-end e Segurança de Aplicações (AppSec)**
 
 Sou apaixonado por entender **como sistemas são construídos e como podem ser protegidos**.
 
@@ -13,7 +13,7 @@ Acredito que compreender profundamente **como aplicações funcionam internament
 
 ---
 
-# 🚀 Projetos em Destaque
+# Projetos em Destaque
 
 ### 🗂️ Task Manager API
 API RESTful completa para gerenciamento de tarefas.
@@ -32,7 +32,7 @@ API RESTful completa para gerenciamento de tarefas.
 
 ---
 
-### 💰 Sistema de Gerenciamento de Renda
+### Sistema de Gerenciamento de Renda
 Projeto acadêmico focado em engenharia de software.
 
 **Tecnologias:**
@@ -48,7 +48,7 @@ Projeto acadêmico focado em engenharia de software.
 
 ---
 
-### ☕ EasyCoffee
+### EasyCoffee
 Aplicação web completa utilizando Django.
 
 **Tecnologias:**
@@ -65,7 +65,7 @@ Aplicação web completa utilizando Django.
 
 ---
 
-# 🔐 Estudos em Segurança de Aplicações
+# Estudos em Segurança de Aplicações
 
 Atualmente estou aprofundando conhecimentos em segurança de aplicações web, incluindo:
 
@@ -79,7 +79,7 @@ Atualmente estou aprofundando conhecimentos em segurança de aplicações web, i
 
 ---
 
-# 🧠 Tecnologias
+# Tecnologias
 
 ## Back-end
 <p>
@@ -110,16 +110,16 @@ Atualmente estou aprofundando conhecimentos em segurança de aplicações web, i
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Busco oportunidades onde eu possa aplicar minha base em **desenvolvimento back-end** enquanto aprofundo meus conhecimentos em **segurança de aplicações e engenharia de software segura**.
 
 ---
 
-# 🌐 Contato
+# Contato
 
-💼 LinkedIn  
+LinkedIn  
 https://linkedin.com/in/felipe-matias-a9b03428a
 
-💻 GitHub  
+GitHub  
 https://github.com/zibec
