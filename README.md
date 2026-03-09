@@ -11,60 +11,6 @@ Recentemente passei a aprofundar meus estudos em **segurança de aplicações we
 
 Acredito que compreender profundamente **como aplicações funcionam internamente** é essencial para identificar falhas e desenvolver software mais seguro.
 
----
-
-# Projetos em Destaque
-
-### 🗂️ Task Manager API
-API RESTful completa para gerenciamento de tarefas.
-
-**Tecnologias:**
-- Java
-- Spring Boot
-- PostgreSQL
-- JUnit
-
-**Principais features:**
-- CRUD completo de tarefas
-- Arquitetura em camadas (Controller → Service → Repository)
-- Integração com banco de dados relacional
-- Testes unitários para validação de regras de negócio
-
----
-
-### Sistema de Gerenciamento de Renda
-Projeto acadêmico focado em engenharia de software.
-
-**Tecnologias:**
-- Java
-- Spring Boot
-- MySQL
-- Next.js
-
-**Destaques:**
-- Modelagem de requisitos
-- Implementação de testes unitários
-- Cobertura de 100% nas regras críticas de negócio
-
----
-
-### EasyCoffee
-Aplicação web completa utilizando Django.
-
-**Tecnologias:**
-- Python
-- Django
-- Azure
-- Git
-
-**Destaques:**
-- Arquitetura organizada seguindo padrão MVC
-- Testes automatizados
-- Deploy em ambiente de produção
-- Pipeline básico de CI/CD
-
----
-
 # Estudos em Segurança de Aplicações
 
 Atualmente estou aprofundando conhecimentos em segurança de aplicações web, incluindo:
