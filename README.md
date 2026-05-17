@@ -3,27 +3,7 @@
 Estudante de **Ciência da Computação na Cesar School**  
 Desenvolvedor com foco em **Back-end e Segurança de Aplicações (AppSec)**
 
-Sou apaixonado por entender **como sistemas são construídos e como podem ser protegidos**.
-
-Minha jornada começou com interesse em **Análise de Dados e SQL**, o que me deu uma base sólida em lógica e manipulação de dados. Ao longo da graduação, direcionei minha carreira para o desenvolvimento de software utilizando **Java e Spring Boot**, criando APIs robustas e escaláveis.
-
-Recentemente passei a aprofundar meus estudos em **segurança de aplicações web**, explorando vulnerabilidades, funcionamento de protocolos web e boas práticas para construção de sistemas seguros.
-
-Acredito que compreender profundamente **como aplicações funcionam internamente** é essencial para identificar falhas e desenvolver software mais seguro.
-
-# Estudos em Segurança de Aplicações
-
-Atualmente estou aprofundando conhecimentos em segurança de aplicações web, incluindo:
-
-- Funcionamento do protocolo HTTP
-- Autenticação e gerenciamento de sessões
-- Cookies e segurança de sessão
-- CORS e políticas de origem
-- Vulnerabilidades do **OWASP Top 10**
-- SQL Injection e exploração de consultas SQL
-- Princípios de desenvolvimento seguro
-
----
+Acredito que compreender profundamente como aplicações funcionam internament* é essencial para identificar falhas e desenvolver software mais seguro.
 
 # Tecnologias
 
