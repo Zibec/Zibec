@@ -1,9 +1,7 @@
 # Olá! Eu sou o Felipe Matias
 
 Estudante de **Ciência da Computação na Cesar School**  
-Desenvolvedor com foco em **Back-end e Segurança de Aplicações (AppSec)**
-
-Acredito que compreender profundamente como aplicações funcionam internament* é essencial para identificar falhas e desenvolver software mais seguro.
+Desenvolvedor com foco em **Back-end**
 
 # Tecnologias
 
@@ -38,7 +36,7 @@ Acredito que compreender profundamente como aplicações funcionam internament* 
 
 # Objetivo
 
-Busco oportunidades onde eu possa aplicar minha base em **desenvolvimento back-end** enquanto aprofundo meus conhecimentos em **segurança de aplicações e engenharia de software segura**.
+Busco oportunidades onde eu possa aplicar minha base em **desenvolvimento back-end**.
 
 ---
 
@@ -47,5 +45,3 @@ Busco oportunidades onde eu possa aplicar minha base em **desenvolvimento back-e
 LinkedIn  
 https://linkedin.com/in/felipe-matias-a9b03428a
 
-GitHub  
-https://github.com/zibec
